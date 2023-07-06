@@ -6,7 +6,7 @@
 
 前端(Flower-ui)：Vue3、TypeScript、SCSS、Element Plus、Router、axios、Vuex
 
-​后端(Flower)：.NET6、Automapper、Autofac、Sql sugar、JWT、Log4Net
+​后端(Flower)：.NET8 Preview、Automapper、Autofac、Sql sugar、JWT、Log4Net
 
 前端开发--后端提供数据--数据库管理数据--业务流程实现
 
