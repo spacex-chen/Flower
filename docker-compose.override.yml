@@ -1,0 +1,9 @@
+version: '3.4'
+
+services:
+  xflower.webapi:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_HTTP_PORTS=7209
+    ports:
+      - "7209"

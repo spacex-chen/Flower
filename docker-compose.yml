@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  xflower.webapi:
+    image: ${DOCKER_REGISTRY-}xflowerwebapi
+    build:
+      context: .
+      dockerfile: Flower.WebApi/Dockerfile
